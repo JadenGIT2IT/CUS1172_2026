@@ -3,7 +3,8 @@ body {
   background: #111827;
 }
 
-.container {
+.page-container 
+ {
   width: min(720px, 94vw);
   margin: 1rem auto;
   padding: 0.75rem;
